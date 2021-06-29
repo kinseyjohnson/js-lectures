@@ -106,3 +106,7 @@ let addNums = function(x, y) {
 
 // Works (10) because function is created, then invoked.
 addNums(5, 5)
+
+
+// Arrow functions as derivaives of fx expressions are also NOT hoisted.
+
